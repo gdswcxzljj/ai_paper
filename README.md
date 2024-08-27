@@ -32,7 +32,7 @@
   
 
   ## 系统特性
-  ### 支持OEM<font color="#f44336">一键免费部署</font>
+  ### 支持OEM<font color="red">一键免费部署</font>
     - 拥有自有品牌
     - 支持个性化样式定制
     - 灵活使用SAAS系统
