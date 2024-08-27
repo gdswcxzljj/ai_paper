@@ -68,7 +68,7 @@
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page5.png)
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page6.png)
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page7.png)
-  ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page8?t=2.png)
+  ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page8.png?t=2)
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page9.png)
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page10.png)
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page11.png)
