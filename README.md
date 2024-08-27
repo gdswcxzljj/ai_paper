@@ -53,18 +53,18 @@
     - 支持接口回调通知
 
   ## 联系客服
-  ![联系客服](https://github.com/gdswcxzljj/ai_paper/blob/main/yiran_qr.png)
+  ![联系客服](https://github.com/gdswcxzljj/ai_paper/blob/main/img/yiran_qr.png)
 
   ## 系统截图
-  ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/page1.png)
-![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/page2.png)
-![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/page3.png)
-![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/page4.png)
-![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/page5.png)
-![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/page6.png)
-![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/page7.png)
-![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/page8.png)
-![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/page9.png)
-![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/page10.png)
-![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/page11.png)
-![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/page12.png)
+  ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page1.png)
+  ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page2.png)
+  ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page3.png)
+  ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page4.png)
+  ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page5.png)
+  ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page6.png)
+  ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page7.png)
+  ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page8.png)
+  ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page9.png)
+  ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page10.png)
+  ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page11.png)
+  ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page12.png)
