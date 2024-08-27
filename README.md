@@ -3,7 +3,7 @@
 *ai**论**文*一键生成，毕业论文、课程论文、开题报告、任务书、AIGC降重
 
 ### 在线体验地址
-- https://www.66paper.cn
+- https://www.66lunwen.com
 
 
 ### 功能特性
