@@ -60,7 +60,7 @@
 
   ## 联系客服
     - 客服微信：chenxi_apple888
-  ![联系客服](https://github.com/gdswcxzljj/ai_paper/blob/main/img/kefu.png?t=1)
+    - ![联系客服](https://github.com/gdswcxzljj/ai_paper/blob/main/img/kefu.png?t=1)
 
   ## 系统截图
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page1.png)
