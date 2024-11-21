@@ -67,6 +67,11 @@
     - 客服微信：chenxi_apple888
     - ![联系客服](https://github.com/gdswcxzljj/ai_paper/blob/main/img/kefu.png?t=1)
 
+  ##用户使用反馈
+  ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/1111.jpeg)
+  ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/2222.jpeg)
+  ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/3333.jpeg)
+  ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/4444.jpeg)
   ## 系统截图
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/WechatIMG213954.png)
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page1.png)
