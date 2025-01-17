@@ -30,7 +30,8 @@
 - 支持英语、韩语、日语、俄语等写作
 - 降低ai查重率/aigc率
 
-**  多种UI适配，支持UI定制 **
+**多种UI适配，支持UI定制**
+
 ![image](https://github.com/user-attachments/assets/21770d32-7931-4d64-97cc-288100722c65)
 
 
