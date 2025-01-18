@@ -32,7 +32,7 @@
 
 **多种UI适配，支持UI定制**
 
-![image](https://github.com/user-attachments/assets/21770d32-7931-4d64-97cc-288100722c65)
+![image](https://github.com/user-attachments/assets/bf4d3494-c0f0-44ef-9321-68bcea86bb0d)
 
 
 ## 超多种论文格式和长文写作支持
