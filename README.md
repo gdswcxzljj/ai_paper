@@ -103,3 +103,16 @@
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page10.png)
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page11.png)
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page12.png)
+
+  ## 图示支持（支持 饼状图 思维导图 流程图 柱状图 折线图 圆环图 混合图 甘特图 时序图 时间序列 类图 实体图 状态图等等）
+
+  流程图1
+  <img width="420" alt="image" src="https://github.com/user-attachments/assets/b08c9092-a9fe-4e92-9649-9c140782933b" />
+
+  流程图2
+  <img width="420" alt="image" src="https://github.com/user-attachments/assets/f9550ff8-9d3f-450d-b711-fdc67cea27ec" />
+  
+  流程图3
+  <img width="420" alt="image" src="https://github.com/user-attachments/assets/aa52e254-ee83-465a-8494-9a4b2fc44902" />
+
+
