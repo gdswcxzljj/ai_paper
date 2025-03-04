@@ -1,8 +1,9 @@
 ## 🚀 超强AI论文写作
 
-*ai**论**文*一键生成，毕业论文、课程论文、开题报告、任务书、AIGC降重、自定义文献
-### 💥💥💥已真实部署落地70+套
+*ai**论**文*一键生成，毕业论文、课程论文、期刊论文、职称论文、开题报告、任务书、AIGC降重、自定义文献
+### 💥💥💥已真实部署落地80+套
 ### 💥💥💥一键免费部署OEM系统
+- 0 元部署
 - 联系客服快速部署OEM
 - 客服微信：chenxi_apple888
 
@@ -29,6 +30,14 @@
 - 提供文献综述、中英摘要、致谢模板
 - 支持英语、韩语、日语、俄语等写作
 - 降低ai查重率/aigc率
+- 支持匿名免登录模式
+- 支持Web、PC、APP和小程序
+- 支持API调用和定制
+
+**多种UI适配，支持UI定制**
+
+![image](https://github.com/user-attachments/assets/bf4d3494-c0f0-44ef-9321-68bcea86bb0d)
+
 
 ## 超多种论文格式和长文写作支持
 
@@ -43,6 +52,7 @@
 - **更多类型**: 后台支持创建新应用
 
 - 支持**降AIGC率**
+- 支持**一键降重** 
 
   
 
@@ -95,3 +105,16 @@
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page10.png)
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page11.png)
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page12.png)
+
+  ## 图示支持（支持 饼状图 思维导图 流程图 柱状图 折线图 圆环图 混合图 甘特图 时序图 时间序列 类图 实体图 状态图等等）
+
+  流程图1
+  <img width="420" alt="image" src="https://github.com/user-attachments/assets/b08c9092-a9fe-4e92-9649-9c140782933b" />
+
+  流程图2
+  <img width="420" alt="image" src="https://github.com/user-attachments/assets/f9550ff8-9d3f-450d-b711-fdc67cea27ec" />
+  
+  流程图3
+  <img width="420" alt="image" src="https://github.com/user-attachments/assets/aa52e254-ee83-465a-8494-9a4b2fc44902" />
+
+
