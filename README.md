@@ -73,8 +73,8 @@
     - ... ...
 
   ## 联系客服
-    - 客服微信：chenxi_apple888
-    - ![联系客服](https://github.com/gdswcxzljj/ai_paper/blob/main/img/kefu.png?t=1)
+    - aikefu68
+    - ![联系客服](https://github.com/gdswcxzljj/ai_paper/blob/main/img/kefu.png?t=2)
 
   ## 💥💥💥用户使用反馈
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/1111.jpeg)
