@@ -52,7 +52,8 @@
 - **更多类型**: 后台支持创建新应用
 
 - 支持**降AIGC率**
-- 支持**一键降重** 
+- 支持**一键降重**
+- 支持论文生成**答辩PPT**
 
   
 
@@ -104,7 +105,15 @@
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page9.png)
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page10.png)
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page11.png)
+
+  ## 降重|降AIGC
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page12.png)
+  ![image](https://github.com/user-attachments/assets/e5a73499-e33f-4356-ace0-590da1486d04)
+
+  ## 答辩PPT
+  ![image](https://github.com/user-attachments/assets/ab04692e-13fd-45c0-b85a-92336487b976)
+
+
 
   ## 图示支持（支持 饼状图 思维导图 流程图 柱状图 折线图 圆环图 混合图 甘特图 时序图 时间序列 类图 实体图 状态图等等）
 
