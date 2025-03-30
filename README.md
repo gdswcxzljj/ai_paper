@@ -107,7 +107,8 @@
   ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page11.png)
 
   ## 降重|降AIGC
-  ![系统截图](https://github.com/gdswcxzljj/ai_paper/blob/main/img/page12.png)
+  ![image](https://github.com/user-attachments/assets/7a7eeb0f-dd4f-446f-a94c-c27080236d53)
+
   ![image](https://github.com/user-attachments/assets/e5a73499-e33f-4356-ace0-590da1486d04)
 
   ## 答辩PPT
