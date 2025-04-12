@@ -111,6 +111,9 @@
 
   ![image](https://github.com/user-attachments/assets/e5a73499-e33f-4356-ace0-590da1486d04)
 
+  ![image](https://github.com/user-attachments/assets/b53db19d-75da-4728-8a13-be206b1eddd8)
+
+
   ## 答辩PPT
   ![image](https://github.com/user-attachments/assets/ab04692e-13fd-45c0-b85a-92336487b976)
 
