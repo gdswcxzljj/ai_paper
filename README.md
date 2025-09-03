@@ -86,6 +86,13 @@
     - 支持接口回调通知
     - ... ...
 
+  ### OEM加盟 / 合伙人招商创业
+  - 支持合伙人，招商创业加盟
+  - 支持分销
+  - 报表明细一目了然
+  - 用户注册、使用日志报表
+ 
+    
   ## 联系客服
     - aikefu68
     - ![联系客服](https://github.com/gdswcxzljj/ai_paper/blob/main/img/kefu.png?t=2)
